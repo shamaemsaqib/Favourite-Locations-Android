@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD Quiz 03</string>
+    <string name="title_activity_my_map">MyMap</string>
+    <string name="title_activity_fvrt_loc_map">fvrtLocMap</string>
+</resources>
